@@ -4,7 +4,7 @@ My first project with HTML and CSS was to make a mock portfolio website.
 
 With a template provided, I customized this website to include images, content, navigation, and additional pages.
 
-![homepage](screenshots/h1.png)
+![homepage](screenshots/1.png)
 
 ![interests-page](screenshots/2.png)
 
